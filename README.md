@@ -21,6 +21,14 @@ This repository contains a `docker-compose.yml` file to quickly set up and run M
     - **Username:** `user`
     - **Password:** `root`
 
+## phpmyadmin Login Page
+
+Below is an example of the phpmyadmin login page:
+
+!!! If you see any error on phpmyadmin page, then reload the browser page, it will be fix !!!. 
+
+![phpmyadmin Login Page](./image.png)
+
 ## Configuration
 
 You can modify the `mysql-docker-compose.yml` file to change the MySQL root password, database name, or phpMyAdmin port.
